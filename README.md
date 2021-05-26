@@ -1,4 +1,4 @@
-## Ven's Discord Client Mods
+## Ven's Discord Plugins
 
 Hello there! Here you can find all the plugins I've made for [Powercord](https://powercord.dev/) (and perhaps [Aliucord](https://github.com/Aliucord/Aliucord) in the future ;))
 
