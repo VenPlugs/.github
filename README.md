@@ -20,6 +20,7 @@ git clone REPO_URL
 - [PlayOnSpotify](https://github.com/VenPlugs/PowercordPlayOnSpotify): Adds Play/Queue Buttons to messages containing Spotify Links that will automatically play them in your Spotify app
 - [TwemojiEverywhere](https://github.com/VenPlugs/PowercordTwemojiEverywhere): Enjoy Twemoji in its fully glory! Changes emojis in channel names, nicknames etc to match those in chat
 - [Unindent](https://github.com/VenPlugs/Unindent): Trim unnecessary indentation (spaces/tabs) in codeblocks
+- [PetPet](https://github.com/VenPlugs/petpet): Given an image, generate a [pet gif](https://media.discordapp.net/attachments/769715970502557727/857765131320819712/petpet.gif)
 - [WordNotifcations](https://github.com/VenPlugs/PowercordWordNotifications): Get Notifcations whenever someone says specific words. Highly customizable
 - [Reacter](https://github.com/VenPlugs/PowercordReacter): Makes reacting to messages a breeze
 - [Brainfuck](https://github.com/VenPlugs/powercord-brainfuck): Brainfuck converter (https://en.wikipedia.org/wiki/Brainfuck)
