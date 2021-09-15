@@ -33,8 +33,3 @@ git clone REPO_URL
 - Twitter: [Vendicated](https://twitter.com/Vendicated)
 - Email: [vendicated@riseup.net](mailto:Vendicated%20&lt;vendicated@riseup.net&gt;)
 
-### Donating
-I do this as hobby so I don't expect to make anything. However, if you would still like to donate you can find ways below. I would really appreciate it! <3
-
-- Kofi: https://ko-fi.com/Vendicated
-- Paypal: https://paypal.me/VenNeptury
