@@ -1,3 +1,9 @@
+> **Note**
+> These plugins are unmaintained and only here for archiving purposes.
+
+<details>
+<summary>Original README</summary>
+
 ## Ven's Discord Plugins
 
 Hello there! Here you can find all the plugins I've made for [Powercord](https://powercord.dev/) (and perhaps [Aliucord](https://github.com/Aliucord/Aliucord) in the future ;))
@@ -33,3 +39,4 @@ git clone REPO_URL
 - Twitter: [Vendicated](https://twitter.com/Vendicated)
 - Email: [vendicated@riseup.net](mailto:Vendicated%20&lt;vendicated@riseup.net&gt;)
 
+</details>
